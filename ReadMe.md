@@ -1,8 +1,18 @@
-# RegistrationInfo Guid Sample
+RegistrationInfo Guid Sample
+ ======================================
+ Excel-DNA -免费且简单的 Excel助手
+ ========================================
+原作者：Govert <br> 
+作者github：https://github.com/Excel-DNA
+——————————————————————————————————————————————
 
-The Excel-DNA IntelliSense extension will attempt to find registration info for any .xll add-in loaded.
-Discovery of the registration info is by calling a hidden function called "RegistrationInfo_\<XllGuid\>", where "\<XllGuid\>" is a guid computed from the full path of the xll.
-This project shows how to compute this Guid.
+The Excel-DNA IntelliSense extension will attempt to find registration info for any .xll add-in loaded.<br> 
+Discovery of the registration info is by calling a hidden function called "RegistrationInfo_\<XllGuid\>", where "\<XllGuid\>" is a guid computed from the full path of the xll.<br> 
+This project shows how to compute this Guid.<br> 
+Excel-DNA IntelliSense扩展将试图找到任何.xll和addin插件的注册信息。<br> 
+注册信息的发现是通过调用一个隐藏的功能被称为“registrationinfo_ \ < > xllguid \”，其中“< > xllguid \”是一个GUID的XLL全路径计算。<br> 
+这个项目展示了如何计算这个GUID。<br> 
+
 
 ## RegistrationInfo Guid calculation
 
